@@ -23,6 +23,7 @@
     "start:server": "node server.js",
     "test": "react-scripts test"
   },
+  "proxy": "http://localhost:3001",
   "eslintConfig": {
     "extends": "react-app"
   },
